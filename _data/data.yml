@@ -1,25 +1,25 @@
-name: José Silva
+name: José Gleydson da Silva Filho
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: josegleydsondasilvafilho@gmail.com
+  github: josegley
+  linkedin: 
   phone: 
   gitlab: 
-  twitter: 
+  twitter: @GleydsonFilho1
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Portuguese
+  - idiom: 
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: IT informatics
+    time: 2023-2027
+    university: IFRN
 
   - degree: BSc in Computer Science
     time: 2010-2014
